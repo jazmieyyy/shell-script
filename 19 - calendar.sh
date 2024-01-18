@@ -7,6 +7,4 @@ echo "*********************"
 echo "       Calendar"   
 echo "*********************"
 cal $year
-echo "**************************"
-echo "Script Execution Completed"
-echo "**************************"
+
